@@ -1,0 +1,19 @@
+It's the most useful common of git
+
+git rm 'name' -delete file
+cd - move between folder
+git --version - show version of git
+mkdir - create folder
+gitk - UI editor of git
+git status - show status of file
+git log - commit history
+git add 'name' - add files to next commit
+git commit -m'name' - add commit
+git merge 'name' - merge btanch
+
+Branch:
+
+git branch - show list of branches which you has
+git checkout - move between branches
+git checkout -D 'name' - delete branch
+git checkout -b 'name' - create branch 
