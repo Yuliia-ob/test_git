@@ -1,0 +1,5 @@
+GIT
+
+git remote add origin https://github.com/Yuliia-ob/test_git.git
+
+git push -u origin maste
