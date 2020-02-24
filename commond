@@ -1,5 +1,10 @@
 It's the most useful common of git
 
+git init - create repozitoriy
+git remote add origin https://github.com/username/myproject.git - create 
+git push -u origin master
+
+
 git rm 'name' -delete file
 cd - move between folder
 git --version - show version of git
